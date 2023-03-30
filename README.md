@@ -1,4 +1,4 @@
-# Twitter Cyberbullying Classifier
+# SafeTweet: The Smart ML Model that Identifies Twitter Cyberbullying
 
 This project creates a machine learning model that can classify text into 6 categories: religion, age, ethnicity, gender, other cyberbullying, and not cyberbullying. It uses the following libraries:
 
